@@ -10,8 +10,8 @@ export default function HomePage() {
   return (
     <>
       <HeroSection />
-      <MySkills />;
       <AboutMe />
+      <MySkills />
       <MyPortfolio />
       {/* <Testimonials />
       <ContactMe /> */}

@@ -8,7 +8,7 @@ function Navbar() {
     setNavActive(!navActive);
   };
   const closeMenu = () => {
-    setNavActive(false);
+    window.location = "mailto:xyz@yourapplicationdomain.com";
   };
 
   useEffect(() => {

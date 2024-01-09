@@ -160,7 +160,9 @@ function Footer() {
       </div>
       <hr className="divider" />
       <div className="footer--content--container">
-        <p className="footer--content">Made by Emin Apturaim</p>
+        <p className="footer--content">
+          All rights reserved © 2023 Emin Apturaim
+        </p>
         <div className="footer--social--icon">
           <ul>
             <li>

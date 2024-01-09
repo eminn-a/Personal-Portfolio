@@ -28,21 +28,21 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/TechStorm-img.png",
+      "title": "Tech Storm",
+      "description": "This project aims to provide a robust and scalable e-commerce solution leveraging cutting-edge technologies.",
       "link": "View In Github"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
+      "src": "./img/comin-soon-img.jpg",
       "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "This project aims to provide a robust and scalable e-commerce solution leveraging cutting-edge technologies.",
       "link": "View In Github"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
+      "src": "img/comin-soon-img.jpg",
       "title": "Easy Rentn",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "View In Github"
@@ -68,7 +68,7 @@
     {
       "id": "3",
       "count": "5",
-      "src": "./img/avatar-image-2.png",
+      "src": "./img/comin-soon-img.jpg",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "author_name": "Kathryn Murphy",
       "author_designation": "McDonald's"
