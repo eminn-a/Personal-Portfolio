@@ -8,7 +8,11 @@ function Navbar() {
     setNavActive(!navActive);
   };
   const closeMenu = () => {
-    window.location = "mailto:xyz@yourapplicationdomain.com";
+    setNavActive(false);
+  };
+
+  const sendMail = () => {
+    window.open("mailto:eminapturaim@gmail.com");
   };
 
   useEffect(() => {
@@ -102,7 +106,7 @@ function Navbar() {
         </ul>
       </div>
       <Link
-        onClick={closeMenu}
+        onClick={sendMail}
         activeClass="navBar--active-content"
         spy={true}
         smooth={true}
