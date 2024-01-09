@@ -30,7 +30,7 @@ function Footer() {
                 smooth={true}
                 offset={-70}
                 duration={500}
-                to="MyPortfolio"
+                to="myPortfolio"
                 className="text-md"
               >
                 Portfolio
@@ -43,7 +43,7 @@ function Footer() {
                 smooth={true}
                 offset={-70}
                 duration={500}
-                to="AboutMe"
+                to="aboutMe"
                 className="text-md"
               >
                 About Me
@@ -56,10 +56,10 @@ function Footer() {
                 smooth={true}
                 offset={-70}
                 duration={500}
-                to="Contact"
+                to="contactMe"
                 className="text-md"
               >
-                Contact
+                Contact Me
               </Link>
             </li>
             <li>
