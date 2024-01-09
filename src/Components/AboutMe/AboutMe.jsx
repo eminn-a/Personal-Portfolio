@@ -9,17 +9,16 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills--section--heading">About Me</h1>
           <p className="hero--section-description">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse
-            architecto reprehenderit a libero magni necessitatibus facilis ipsa,
-            deserunt, aliquid tempore ullam quis et voluptate odio cum veniam
-            temporibus nisi error quod aperiam explicabo ea? Vitae aliquid
-            magnam, sit corporis accusantium quos fugit a? Eius sed velit dolor
-            tempora minima impedit?
+            I'm Emin, a passionate programmer currently following the JavaScript
+            curriculum at SoftUni University, which includes various modules
+            from Basic to more Advanced concepts in the language. Over the past
+            year, I have dedicated myself to honing my technical skills and
+            expanding my knowledge in JavaScript, React, Node.js, MongoDB, and
+            other cutting-edge technologies.
           </p>
           <p className="hero--section-description">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse
-            architecto reprehenderit a libero magni necessitatibus facilis ipsa,
-            deserunt
+            I'm not just into coding, I'm also a sports enthusiast! I'm always
+            open to new opportunities to expand my skill set.
           </p>
         </div>
       </div>

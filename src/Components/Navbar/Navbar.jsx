@@ -93,7 +93,7 @@ function Navbar() {
               smooth={true}
               offset={-70}
               duration={500}
-              to="extra"
+              to="testimonials"
               className="navbar--content"
             >
               Extra
