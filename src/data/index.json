@@ -1,0 +1,28 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "lorem impsum dolor sit amet,consectecure adipi asd qweqrasdasd.Suspendis asde rtqaxd fsdfe"
+    },
+    {
+      "id": 2,
+      "src": "/img/tag-1.png",
+      "title": "Back-End",
+      "description": "lorem impsum dolor sit amet,consectecure adipi asd qweqrasdasd.Suspendis asde rtqaxd fsdfe"
+    },
+    {
+      "id": 3,
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "lorem impsum dolor sit amet,consectecure adipi asd qweqrasdasd.Suspendis asde rtqaxd fsdfe"
+    },
+    {
+      "id": 4,
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Developer",
+      "description": "lorem impsum dolor sit amet,consectecure adipi asd qweqrasdasd.Suspendis asde rtqaxd fsdfe"
+    }
+  ]
+}
