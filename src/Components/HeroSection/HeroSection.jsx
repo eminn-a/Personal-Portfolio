@@ -1,4 +1,10 @@
 export default function HeroSection() {
+  const goToPage = () => {
+    window.open(
+      "https://linkedin.com",
+      "_blank" // <- This is what makes it open in a new window.
+    );
+  };
   return (
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
@@ -15,7 +21,9 @@ export default function HeroSection() {
             to provide value through my coding expertise.
           </p>
         </div>
-        <button className="btn btn-primary">Get in touch!</button>
+        <button className="btn btn-primary" onClick={goToPage}>
+          Get in touch
+        </button>
       </div>
       <div className="hero--section--img">
         <img src="img/hero-img-transformed.jpeg" alt="Hero Section Image" />
