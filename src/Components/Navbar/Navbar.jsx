@@ -35,7 +35,7 @@ function Navbar() {
   return (
     <nav className={`navbar ${navActive ? "active" : ""}`}>
       <div>
-        <p>logo</p>
+        <p className="sub--title">EminApp</p>
       </div>
       <a
         className={`nav__hamburger ${navActive ? "active" : ""}`}
@@ -69,20 +69,6 @@ function Navbar() {
               smooth={true}
               offset={-70}
               duration={500}
-              to="myPortfolio"
-              className="navbar--content"
-            >
-              Portfolio
-            </Link>
-          </li>
-          <li>
-            <Link
-              onClick={closeMenu}
-              activeClass="navBar--active-content"
-              spy={true}
-              smooth={true}
-              offset={-70}
-              duration={500}
               to="aboutMe"
               className="navbar--content"
             >
@@ -97,10 +83,24 @@ function Navbar() {
               smooth={true}
               offset={-70}
               duration={500}
-              to="testimonials"
+              to="mySkills"
               className="navbar--content"
             >
-              Extra
+              My Skills
+            </Link>
+          </li>
+          <li>
+            <Link
+              onClick={closeMenu}
+              activeClass="navBar--active-content"
+              spy={true}
+              smooth={true}
+              offset={-70}
+              duration={500}
+              to="myPortfolio"
+              className="navbar--content"
+            >
+              Portfolio
             </Link>
           </li>
         </ul>

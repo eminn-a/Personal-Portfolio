@@ -6,7 +6,7 @@ function Footer() {
     <footer className="footer--container">
       <div className="footer--link--container">
         <div>
-          <img src="./img/logo.svg" alt="Logoipsum" />
+          <p className="sub--title">EminApp</p>
         </div>
         <div className="footer--items">
           <ul>
@@ -30,19 +30,6 @@ function Footer() {
                 smooth={true}
                 offset={-70}
                 duration={500}
-                to="myPortfolio"
-                className="text-md"
-              >
-                Portfolio
-              </Link>
-            </li>
-            <li>
-              <Link
-                activeClass="navbar--active-content"
-                spy={true}
-                smooth={true}
-                offset={-70}
-                duration={500}
                 to="aboutMe"
                 className="text-md"
               >
@@ -56,20 +43,32 @@ function Footer() {
                 smooth={true}
                 offset={-70}
                 duration={500}
-                to="contactMe"
+                to="mySkills"
                 className="text-md"
               >
-                Contact Me
+                My Skills
               </Link>
             </li>
-            <li></li>
+            <li>
+              <Link
+                activeClass="navbar--active-content"
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={500}
+                to="myPortfolio"
+                className="text-md"
+              >
+                Portfolio
+              </Link>
+            </li>
           </ul>
         </div>
         <div className="footer--social--icon">
           <ul>
             <li>
               <a
-                href="https://www.facebook.com/"
+                href="https://www.facebook.com/emin.aptr"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -90,7 +89,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/eminn.a_/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
