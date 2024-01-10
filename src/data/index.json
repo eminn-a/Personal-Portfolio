@@ -4,25 +4,25 @@
       "id": 1,
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "lorem impsum dolor sit amet,consectecure adipi asd qweqrasdasd.Suspendis asde rtqaxd fsdfe"
+      "description": ["JavaScript", "HTML & CSS", "React", "Angular"]
     },
     {
       "id": 2,
       "src": "/img/tag-1.png",
       "title": "Back-End",
-      "description": "lorem impsum dolor sit amet,consectecure adipi asd qweqrasdasd.Suspendis asde rtqaxd fsdfe"
+      "description": ["Node.js", "Express.js", "MongoDB"]
     },
     {
       "id": 3,
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "lorem impsum dolor sit amet,consectecure adipi asd qweqrasdasd.Suspendis asde rtqaxd fsdfe"
+      "description": ["Bootstrap", "Tailwind CSS", "Sass"]
     },
     {
       "id": 4,
       "src": "./img/feather-pen-1.png",
-      "title": "Webflow Developer",
-      "description": "lorem impsum dolor sit amet,consectecure adipi asd qweqrasdasd.Suspendis asde rtqaxd fsdfe"
+      "title": "Web Developer Tools",
+      "description": ["VisualStudioCode", "GitHub", "Git", "Postman"]
     }
   ],
   "portfolio": [
@@ -31,21 +31,21 @@
       "src": "./img/TechStorm-img.png",
       "title": "Tech Storm",
       "description": "This project aims to provide a robust and scalable e-commerce solution leveraging cutting-edge technologies.",
-      "link": "View In Github"
+      "link": "https://github.com/eminn-a/TechStorm-project"
     },
     {
       "id": "2",
       "src": "./img/comin-soon-img.jpg",
-      "title": "App Dashboard",
-      "description": "This project aims to provide a robust and scalable e-commerce solution leveraging cutting-edge technologies.",
-      "link": "View In Github"
+      "title": "Tour and Travel ",
+      "description": "Your journey your story.Chose your favorite destiantion here and make best memories with your family or friends.",
+      "link": "https://github.com/eminn-a"
     },
     {
       "id": "3",
       "src": "img/comin-soon-img.jpg",
-      "title": "Easy Rentn",
+      "title": "Monopol",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "link": "https://github.com/eminn-a"
     }
   ],
   "testimonial": [

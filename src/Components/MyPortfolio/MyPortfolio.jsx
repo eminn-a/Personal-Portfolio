@@ -1,6 +1,19 @@
 import data from "../../data/index.json";
 
 export default function MyPortfolio() {
+  const goToPage = () => {
+    window.open(
+      "https://github.com/eminn-a",
+      "_blank" // <- This is what makes it open in a new window.
+    );
+  };
+  const openGithubSrc = (link) => {
+    window.open(
+      link,
+      "_blank" // <- This is what makes it open in a new window.
+    );
+  };
+
   return (
     <section id="myPortfolio" className="portfolio--section">
       <div className="portfolio--section-box">
@@ -9,7 +22,7 @@ export default function MyPortfolio() {
           <h2 className="section--heading">My Portfolio</h2>
         </div>
         <div>
-          <button className="btn btn-github">
+          <button className="btn btn-github" onClick={goToPage}>
             {" "}
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -40,24 +53,26 @@ export default function MyPortfolio() {
                 <h3 className="portfolio--section--title">{item.title}</h3>
                 <p className="text-md">{item.description}</p>
               </div>
-              <p className="text-sm portfolio--link">
-                {item.link}
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="16"
-                  height="16"
-                  viewBox="0 0 20 19"
-                  fill="none"
-                >
-                  <path
-                    d="M4.66667 1.66675H18V15.0001M18 1.66675L2 17.6667L18 1.66675Z"
-                    stroke="currentColor"
-                    strokeWidth="2.66667"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                  />
-                </svg>
-              </p>
+              <a href={item.link} target="_blank">
+                <p className="text-sm portfolio--link">
+                  View in GitHub
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="16"
+                    height="16"
+                    viewBox="0 0 20 19"
+                    fill="none"
+                  >
+                    <path
+                      d="M4.66667 1.66675H18V15.0001M18 1.66675L2 17.6667L18 1.66675Z"
+                      stroke="currentColor"
+                      strokeWidth="2.66667"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
+                  </svg>
+                </p>
+              </a>
             </div>
           </div>
         ))}

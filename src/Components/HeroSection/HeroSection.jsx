@@ -1,7 +1,7 @@
 export default function HeroSection() {
   const goToPage = () => {
     window.open(
-      "https://linkedin.com",
+      "https://www.linkedin.com/in/emin-apturaim-a1b045292/",
       "_blank" // <- This is what makes it open in a new window.
     );
   };
