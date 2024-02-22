@@ -1,8 +1,16 @@
-# React + Vite
+# My portfolio website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal web page. You can see some of my projects, skills and certificates.
 
-Currently, two official plugins are available:
+## Technologies used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* HTML
+* CSS
+* JavaScript
+* React
+  
+## What i've learned from the project
+
+* HTML structuring
+* A lot of CSS properties
+* React 
