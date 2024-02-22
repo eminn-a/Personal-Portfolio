@@ -22,7 +22,7 @@
       "id": 4,
       "src": "./img/feather-pen-1.png",
       "title": "Web Developer Tools",
-      "description": ["VisualStudioCode", "GitHub", "Git", "Postman"]
+      "description": ["VisualStudioCode", "Git & GitHub", "Postman"]
     }
   ],
   "portfolio": [
