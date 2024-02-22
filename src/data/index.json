@@ -39,14 +39,16 @@
       "src": "./img/comin-soon-img.jpg",
       "title": "Tour and Travel ",
       "description": "Your journey your story.Chose your favorite destiantion here and make best memories with your family or friends.",
-      "link": "https://github.com/eminn-a"
+      "link": "https://github.com/eminn-a",
+      "siteLink": "https://techstorm-c66e0.web.app/"
     },
     {
       "id": "3",
       "src": "img/comin-soon-img.jpg",
-      "title": "Monopol",
+      "title": "Monopol 08",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "https://github.com/eminn-a"
+      "link": "https://github.com/eminn-a",
+      "siteLink": "https://techstorm-c66e0.web.app/"
     }
   ],
   "testimonial": [
