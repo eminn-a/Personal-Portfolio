@@ -49,10 +49,12 @@ export default function MyPortfolio() {
               <img src={item.src} alt={item.title} />
             </div>
             <div className="portfolio--section--card--content">
-              <div>
-                <h3 className="portfolio--section--title">{item.title}</h3>
-                <p className="text-md">{item.description}</p>
-              </div>
+              <a href={item.siteLink} target="_blank">
+                <div>
+                  <h3 className="portfolio--section--title">{item.title}</h3>
+                  <p className="text-md">{item.description}</p>
+                </div>
+              </a>
               <a href={item.link} target="_blank">
                 <p className="text-sm portfolio--link">
                   View in GitHub

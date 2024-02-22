@@ -31,7 +31,8 @@
       "src": "./img/TechStorm-img.png",
       "title": "Tech Storm",
       "description": "This project aims to provide a robust and scalable e-commerce solution leveraging cutting-edge technologies.",
-      "link": "https://github.com/eminn-a/TechStorm-project"
+      "link": "https://github.com/eminn-a/TechStorm-project",
+      "siteLink": "https://techstorm-c66e0.web.app/"
     },
     {
       "id": "2",
