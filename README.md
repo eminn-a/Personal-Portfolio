@@ -1,6 +1,7 @@
 # My portfolio website
 
 This is my personal web page. You can see some of my projects, skills and certificates.
+<img src="/img/personal-portfolio.png" alt="Project Logo" width="700" height="700">
 
 ## Technologies used
 
