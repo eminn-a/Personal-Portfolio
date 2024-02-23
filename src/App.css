@@ -102,6 +102,10 @@ h3 {
   line-height: 34px;
 }
 
+.hero--section-title--color {
+  color: var(--heading-color);
+}
+
 /* Pragraphs text large medium small */
 /* Body 1 */
 .text-lg {

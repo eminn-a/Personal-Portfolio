@@ -1,3 +1,5 @@
+import Typewriter from "typewriter-effect";
+
 export default function HeroSection() {
   const goToPage = () => {
     window.open(
@@ -11,8 +13,22 @@ export default function HeroSection() {
         <div className="hero--section--content">
           <p className="section--title">Hey, I'm Emin</p>
           <h1 className="hero--section--title">
-            <span className="hero--section-title--color">Front-End</span> <br />
-            Developer
+            {/* <span className="hero--section-title--color">Front-End </span> */}
+
+            <Typewriter
+              onInit={(typewriter) => {
+                typewriter
+                  .typeString("Front-End <br /> Developer!")
+                  .pauseFor(9000)
+                  .deleteAll()
+                  .start();
+              }}
+              options={{
+                autoStart: true,
+                loop: true,
+                // cursor:
+              }}
+            />
           </h1>
           <p className="hero--section--description">
             My goal is finding a job and kickstarting my career
