@@ -372,6 +372,9 @@ h2 {
   border-top-left-radius: 12px;
   border-top-right-radius: 12px;
 }
+.portfolio--section--card a {
+  text-decoration: none;
+}
 .portfolio--section--card--content {
   display: flex;
   padding: 32px;
