@@ -34,9 +34,19 @@ function Navbar() {
 
   return (
     <nav className={`navbar ${navActive ? "active" : ""}`}>
-      <div>
-        <p className="sub--title">EminApp</p>
-      </div>
+      <Link
+        onClick={closeMenu}
+        activeClass="navBar--active-content"
+        spy={true}
+        smooth={true}
+        offset={-70}
+        duration={500}
+        to="heroSection"
+        className="navbar--content"
+      >
+        <div class="site-logo">emin app</div>
+      </Link>
+
       <a
         className={`nav__hamburger ${navActive ? "active" : ""}`}
         onClick={toggleNav}

@@ -188,6 +188,28 @@ h3 {
 .navbar--active-content {
   color: var(--primary);
 }
+
+.logo {
+  background-image: url(/public/img/rsz_1emin-app-high-resolution-logo-black-transparent.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* width: 100px;
+  height: 60px; */
+}
+
+.site-logo {
+  display: block;
+  width: 100px;
+  height: 60px;
+  overflow: hidden;
+  text-indent: -200vh;
+  background-image: url(/public/img/emin-app-high-resolution-logo-black-transparent.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 /* Navbar Styler Ends */
 
 /* Hero Section Style */
