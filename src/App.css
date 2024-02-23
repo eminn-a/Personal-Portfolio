@@ -617,6 +617,7 @@ input[type="checkbox"] {
     display: flex;
     flex-direction: column-reverse;
     padding-bottom: 70px;
+    /* justify-content: center; */
   }
   .hero--section--title,
   .hero--section-description,
@@ -666,6 +667,8 @@ input[type="checkbox"] {
   }
   .hero--section--content--box {
     gap: 10px;
+    display: flex;
+    flex-direction: column;
   }
   .contact--form--container {
     width: 100%;
