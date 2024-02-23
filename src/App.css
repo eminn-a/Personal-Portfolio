@@ -204,7 +204,7 @@ h3 {
   height: 60px;
   overflow: hidden;
   text-indent: -200vh;
-  background-image: url(/public/img/emin-app-high-resolution-logo-black-transparent.png);
+  background-image: url(/img/emin-app-high-resolution-logo-black-transparent.png);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -718,9 +718,6 @@ input[type="checkbox"] {
   height: 1.313rem;
   flex-direction: column;
   justify-content: space-around;
-  position: absolute;
-  top: 25px;
-  right: 25px;
 }
 
 .nav__hamburger__line {
@@ -733,6 +730,10 @@ input[type="checkbox"] {
 }
 
 @media screen and (max-width: 1200px) {
+  .navbar {
+    padding: 15px 40px;
+  }
+
   .nav__hamburger {
     display: flex;
     z-index: 200;
