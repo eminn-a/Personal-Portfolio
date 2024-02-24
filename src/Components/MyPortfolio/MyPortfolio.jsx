@@ -19,7 +19,7 @@ export default function MyPortfolio() {
       <div className="portfolio--section-box">
         <div className="portfolio--container">
           <p className="sub--title">Recent projects</p>
-          <h2 className="section--heading">My Portfolio</h2>
+          <h2 className="skills--section--heading">My Portfolio</h2>
         </div>
         <div>
           <button className="btn btn-github" onClick={goToPage}>

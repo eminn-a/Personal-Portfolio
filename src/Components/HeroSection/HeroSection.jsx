@@ -18,7 +18,7 @@ export default function HeroSection() {
             <Typewriter
               onInit={(typewriter) => {
                 typewriter
-                  .typeString("Front-End <br /> Developer!")
+                  .typeString("Front-End<br/>Developer")
                   .pauseFor(9000)
                   .deleteAll()
                   .start();
@@ -26,7 +26,6 @@ export default function HeroSection() {
               options={{
                 autoStart: true,
                 loop: true,
-                // cursor:
               }}
             />
           </h1>

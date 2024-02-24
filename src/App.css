@@ -1,7 +1,7 @@
 /* Global CSS */
 
 body {
-  margin: 0;
+  margin: 0 auto;
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: "Roboto", sans-serif;
   -moz-osx-font-smoothing: "Roboto", sans-serif;
@@ -189,22 +189,13 @@ h3 {
   color: var(--primary);
 }
 
-.logo {
-  background-image: url(/public/img/rsz_1emin-app-high-resolution-logo-black-transparent.png);
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-  /* width: 100px;
-  height: 60px; */
-}
-
 .site-logo {
   display: block;
   width: 100px;
   height: 60px;
   overflow: hidden;
   text-indent: -200vh;
-  background-image: url(/img/emin-app-high-resolution-logo-black-transparent.png);
+  background-image: url(/img/rsz_1emin-app-high-resolution-logo-black-transparent.png);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -295,7 +286,7 @@ h3 {
   flex: 1 0 0;
   border-radius: 10.6px;
   background: var(--bg-shade);
-  min-height: 250px;
+  min-height: 280px;
 }
 .skills--section--card:hover {
   border-bottom: 4px solid var(--primary);
@@ -673,6 +664,7 @@ input[type="checkbox"] {
     padding-top: 70px;
     padding-bottom: 70px;
   }
+
   .about--section {
     gap: 20px;
     padding-top: 0;
@@ -733,7 +725,6 @@ input[type="checkbox"] {
   .navbar {
     padding: 15px 40px;
   }
-
   .nav__hamburger {
     display: flex;
     z-index: 200;
@@ -781,6 +772,20 @@ input[type="checkbox"] {
 
   .nav__hamburger.active :nth-child(3) {
     transform: rotate(-45deg) translate(0.45rem, -0.1875rem);
+  }
+
+  .portfolio--section-box {
+    flex-direction: column;
+  }
+  .btn.btn-github {
+    margin-top: 1em;
+  }
+  .portfolio--section {
+    padding: 20px 85px;
+  }
+
+  .hero--section--description {
+    text-align: center;
   }
 }
 
