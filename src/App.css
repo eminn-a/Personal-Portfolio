@@ -289,7 +289,6 @@ h3 {
   min-height: 280px;
 }
 .skills--section--card:hover {
-  /* border-bottom: 4px solid var(--primary); */
   box-shadow: 1px 5px 10px var(--primary);
 }
 .skills--section--card:hover,
