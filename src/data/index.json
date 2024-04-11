@@ -44,10 +44,10 @@
     },
     {
       "id": "3",
-      "src": "img/Mononopol-08.jpg",
+      "src": "./img/Monopol-08.jpg",
       "title": "Monopol 08",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "https://github.com/eminn-a",
+      "description": "Welcome to the Monopol project! Monopol is fully responsive Real estate website built using HTML, CSS, and Angular.",
+      "link": "https://github.com/eminn-a/Monopol08",
       "siteLink": "https://techstorm-c66e0.web.app/"
     }
   ],
