@@ -4,7 +4,12 @@
       "id": 1,
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": ["JavaScript", "HTML & CSS", "React", "Angular"]
+      "description": [
+        "JavaScript & TypeScript",
+        "HTML & CSS",
+        "React",
+        "Angular"
+      ]
     },
     {
       "id": 2,
