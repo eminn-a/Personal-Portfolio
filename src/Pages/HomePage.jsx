@@ -15,8 +15,8 @@ export default function HomePage() {
       {/* <MySkills /> */}
       <Technologies />
       <MyPortfolio />
-      {/* <Testimonials />
-      <ContactMe /> */}
+      {/* <Testimonials /> */}
+      {/* <ContactMe /> */}
       <Footer />
     </>
   );
