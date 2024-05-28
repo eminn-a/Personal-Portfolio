@@ -4,6 +4,7 @@ import Footer from "../Components/Footer/Footer";
 import HeroSection from "../Components/HeroSection/HeroSection";
 import MyPortfolio from "../Components/MyPortfolio/MyPortfolio";
 import MySkills from "../Components/Skills/MySkills";
+import Technologies from "../Components/Technologies/Technologies";
 import Testimonials from "../Components/Testimonials/Testimonials";
 
 export default function HomePage() {
@@ -11,7 +12,8 @@ export default function HomePage() {
     <>
       <HeroSection />
       <AboutMe />
-      <MySkills />
+      {/* <MySkills /> */}
+      <Technologies />
       <MyPortfolio />
       {/* <Testimonials />
       <ContactMe /> */}
