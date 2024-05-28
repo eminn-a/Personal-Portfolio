@@ -13,12 +13,15 @@ function Footer() {
           All rights reserved © 2023 Emin Apturaim
         </p>
         <div className="social--container">
-          <a href="https://github.com/eminn-a">
+          <a href="https://github.com/eminn-a" target="_blank">
             <div className="social-icon-box">
               <FaGithub className="social-icon" />
             </div>
           </a>
-          <a href="">
+          <a
+            href="https://www.linkedin.com/in/emin-apturaim-a1b045292/"
+            target="_blank"
+          >
             <div className="social-icon-box">
               <FaLinkedin className="social-icon" />
             </div>
