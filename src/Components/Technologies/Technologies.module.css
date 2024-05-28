@@ -12,7 +12,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: .8em;
+    gap: 1.8em;
 }
 
 .iconBox {
@@ -23,7 +23,7 @@
 }
 
 .icon {
-    font-size: 55px;
+    font-size: 80px;
     /* color: blue; */
 }
 
