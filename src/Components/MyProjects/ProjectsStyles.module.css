@@ -4,11 +4,11 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 75vw;
-    margin: 6em auto;
+    width: 85vw;
+    margin: 8em auto;
     box-shadow: 0 5px 25px 2px rgba(0, 0, 0, 0.2);
-    padding: 1em;
-    border-radius: 7px;
+    padding: 2em;
+    border-radius: 16px;
 }
 
 .trip h1 {
@@ -16,7 +16,8 @@
 }
 
 .trip p {
-    font-size: 1.3rem;
+    font-size: 21px;
+    font-weight: 600;
 }
 
 .tripCardContainer {
@@ -81,7 +82,8 @@
 }
 
 .sTripText p {
-    font-size: 20px;
+    font-size: 23px;
+    font-weight: 400;
 }
 
 .buttons {
