@@ -3,9 +3,11 @@ import ContactMe from "../Components/ContactMe/ContactMe";
 import Footer from "../Components/Footer/Footer";
 import HeroSection from "../Components/HeroSection/HeroSection";
 import MyPortfolio from "../Components/MyPortfolio/MyPortfolio";
+import Projects from "../Components/MyProjects/Projects";
 import MySkills from "../Components/Skills/MySkills";
 import Technologies from "../Components/Technologies/Technologies";
 import Testimonials from "../Components/Testimonials/Testimonials";
+import data from "../data/index.json";
 
 export default function HomePage() {
   return (
@@ -14,7 +16,8 @@ export default function HomePage() {
       <AboutMe />
       {/* <MySkills /> */}
       <Technologies />
-      <MyPortfolio />
+      {/* <MyPortfolio /> */}
+      <Projects data={data.portfolio} />
       {/* <Testimonials /> */}
       {/* <ContactMe /> */}
       <Footer />

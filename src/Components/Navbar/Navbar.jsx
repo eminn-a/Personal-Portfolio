@@ -44,7 +44,7 @@ function Navbar() {
         to="heroSection"
         className="navbar--content"
       >
-        <div class="site-logo">emin app</div>
+        <div className="site-logo">emin app</div>
       </Link>
 
       <a
