@@ -75,8 +75,13 @@
     width: 45%;
 }
 
+.sTripText h2 {
+    font-size: 35px;
+    text-decoration: underline;
+}
+
 .sTripText p {
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .buttons {

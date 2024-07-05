@@ -28,27 +28,27 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/TechStorm-img.png",
-      "title": "Tech Storm",
-      "description": "Personal Project, Website called Tech Storm - A platform where consumers can buy laptops. Build using HTML, CSS and React.",
-      "link": "https://github.com/eminn-a/TechStorm-project",
-      "siteLink": "https://techstorm-c66e0.web.app/"
+      "src": "./img/Travel-World.png",
+      "title": "Travel-World",
+      "description": "Travel-World is a comprehensive platform that allows users to browse, book, and manage travel packages. It offers a user-friendly interface for both travelers and administrators. Built with HTML, CSS, React, Express.js, and MongoDB.",
+      "link": "https://github.com/eminn-a/Travel-World",
+      "siteLink": "https://travel-world-c12.web.app/"
     },
     {
       "id": "2",
-      "src": "./img/comin-soon-img.jpg",
-      "title": "Tour and Travel ",
-      "description": "Your journey your story.Chose your favorite destiantion here and make best memories with your family or friends. Build using HTML, CSS and React.",
-      "link": "https://github.com/eminn-a",
-      "siteLink": "https://techstorm-c66e0.web.app/"
-    },
-    {
-      "id": "3",
       "src": "./img/Monopol-08.jpg",
       "title": "Monopol 08",
       "description": "Welcome to the Monopol project! Monopol is fully responsive real estate website built using HTML, CSS, and Angular.",
       "link": "https://github.com/eminn-a/Monopol08",
       "siteLink": "https://monopo-angular.web.app/home"
+    },
+    {
+      "id": "3",
+      "src": "./img/TechStorm-img.png",
+      "title": "Tech Storm",
+      "description": "Personal Project, Website called Tech Storm - A platform where consumers can buy laptops. Build using HTML, CSS and React.",
+      "link": "https://github.com/eminn-a/TechStorm-project",
+      "siteLink": "https://techstorm-c66e0.web.app/"
     }
   ],
   "testimonial": [

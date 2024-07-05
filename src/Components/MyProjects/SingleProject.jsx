@@ -11,7 +11,7 @@ const SingleProject = ({ src, title, description, count, siteLink, link }) => {
         <img src={src} alt="" />
       </div>
       <div className={styles.sTripText}>
-        <h1>{title}</h1>
+        <h2>{title}</h2>
         <p>{description}</p>
         {/* <br /> */}
         <div className={styles.buttons}>
