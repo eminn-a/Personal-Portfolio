@@ -38,7 +38,7 @@
       "id": "2",
       "src": "./img/Monopol-08.jpg",
       "title": "Monopol 08",
-      "description": "Welcome to the Monopol project! Monopol is fully responsive real estate website built using HTML, CSS, and Angular.",
+      "description": "Monopol is a fully responsive real estate website, optimized for all devices. Built with HTML, CSS, and Angular, it offers a seamless and user-friendly experience for property browsing and management. Enjoy consistent performance and an attractive interface on desktops, tablets, and smartphones.",
       "link": "https://github.com/eminn-a/Monopol08",
       "siteLink": "https://monopo-angular.web.app/home"
     },
@@ -46,7 +46,7 @@
       "id": "3",
       "src": "./img/TechStorm-img.png",
       "title": "Tech Storm",
-      "description": "Personal Project, Website called Tech Storm - A platform where consumers can buy laptops. Build using HTML, CSS and React.",
+      "description": "Tech Storm is a sleek, responsive website designed for buying laptops. Developed using HTML, CSS, and React, it ensures a smooth and engaging shopping experience on any device. Whether you're on a desktop, tablet, or smartphone, Tech Storm provides consistent performance and an intuitive interface for all your tech needs.",
       "link": "https://github.com/eminn-a/TechStorm-project",
       "siteLink": "https://techstorm-c66e0.web.app/"
     }
