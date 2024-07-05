@@ -18,7 +18,7 @@ export default function HeroSection() {
             <Typewriter
               onInit={(typewriter) => {
                 typewriter
-                  .typeString("Front-End<br/>Developer")
+                  .typeString("Front-End Developer")
                   .pauseFor(9000)
                   .deleteAll()
                   .start();
@@ -30,9 +30,8 @@ export default function HeroSection() {
             />
           </h1>
           <p className="hero--section--description">
-            My goal is finding a job and kickstarting my career
-            <br />
-            to provide value through my coding expertise.
+            My goal is finding a job and kickstarting my career to provide value
+            through my coding expertise.
           </p>
         </div>
         <button className="btn btn-primary" onClick={goToPage}>

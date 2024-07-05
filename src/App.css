@@ -270,7 +270,7 @@ h3 {
   color: var(--primary);
 }
 
-.hero--section-description {
+.hero--section--description {
   color: var(--darkblue);
   font-size: 24px;
   font-weight: 400;
