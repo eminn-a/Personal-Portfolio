@@ -27,7 +27,7 @@ export default function HeroSection() {
               }}
             />
           </h1>
-          <p className="hero--section--description">
+          <p className="hero--section--description center">
             My goal is finding a job and kickstarting my career to provide value
             through my coding expertise.
           </p>

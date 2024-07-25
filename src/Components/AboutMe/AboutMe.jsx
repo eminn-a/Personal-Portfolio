@@ -25,17 +25,17 @@ export default function AboutMe() {
             I'm not just into coding, I'm also a sports enthusiast! I'm always
             open to new opportunities to expand my skill set.
           </p>
-          <div>
+          <div className="portfolio--personal--info">
             <div className="portfolio--section--card--content">
-              <div>
-                <h3 className="portfolio--section--title">Name</h3>
-                <p className="text-md">Emin Apturaim</p>
+              <div className="portfolio--innner">
+                <h3>Name</h3>
+                <p className="text-lg">Emin Apturaim</p>
               </div>
             </div>
             <div className="portfolio--section--card--content">
-              <div>
-                <h3 className="portfolio--section--title">Gmail</h3>
-                <p className="text-md">eminapturaim@gmail.com</p>
+              <div className="portfolio--innner">
+                <h3>Gmail</h3>
+                <p className="text-lg">eminapturaim@gmail.com</p>
               </div>
             </div>
           </div>

@@ -14,12 +14,8 @@ export default function HomePage() {
     <>
       <HeroSection />
       <AboutMe />
-      {/* <MySkills /> */}
       <Technologies />
-      {/* <MyPortfolio /> */}
       <Projects data={data.portfolio} />
-      {/* <Testimonials /> */}
-      {/* <ContactMe /> */}
       <Footer />
     </>
   );
