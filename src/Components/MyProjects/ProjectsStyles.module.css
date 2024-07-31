@@ -58,6 +58,7 @@
 .tImage img {
     width: 100%;
     height: 100%;
+    object-fit: cover;
     display: block;
     transition: 0.3s ease-in-out;
 }
