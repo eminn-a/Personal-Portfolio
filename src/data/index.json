@@ -43,11 +43,19 @@
       "siteLink": "https://monopo-angular.web.app/home"
     },
     {
+      "id": "4",
+      "src": "./img/gym-project.png",
+      "title": "YosifFit",
+      "description": "YosifFit is a fully responsive personal trainer website, tailored to showcase your services and client successes across all devices. Built with HTML, CSS, and React, it provides an engaging and user-friendly platform for displaying membership plans, training programs, and client testimonials.",
+      "link": "https://github.com/eminn-a/gym-project",
+      "siteLink": "https://gym-c123.web.app/"
+    },
+    {
       "id": "3",
       "src": "./img/TechStorm-img.png",
       "title": "Tech Storm",
       "description": "Tech Storm is a sleek, responsive website designed for buying laptops. Developed using HTML, CSS, and React, it ensures a smooth and engaging shopping experience on any device. Whether you're on a desktop, tablet, or smartphone, Tech Storm provides consistent performance and an intuitive interface for all your tech needs.",
-      "link": "https://github.com/eminn-a/TechStorm-project",
+      "link": "https://github.com/eminn-a/TechStorm",
       "siteLink": "https://techstorm-c66e0.web.app/"
     }
   ],
