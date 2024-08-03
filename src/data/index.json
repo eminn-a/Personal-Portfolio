@@ -36,14 +36,6 @@
     },
     {
       "id": "2",
-      "src": "./img/Monopol-08.jpg",
-      "title": "Monopol 08",
-      "description": "Monopol is a fully responsive real estate website, optimized for all devices. Built with HTML, CSS, and Angular, it offers a seamless and user-friendly experience for property browsing and management. Enjoy consistent performance and an attractive interface on desktops, tablets, and smartphones.",
-      "link": "https://github.com/eminn-a/Monopol08",
-      "siteLink": "https://monopo-angular.web.app/home"
-    },
-    {
-      "id": "4",
       "src": "./img/gym-project.png",
       "title": "YosifFit",
       "description": "YosifFit is a fully responsive personal trainer website, tailored to showcase your services and client successes across all devices. Built with HTML, CSS, and React, it provides an engaging and user-friendly platform for displaying membership plans, training programs, and client testimonials.",
@@ -52,6 +44,14 @@
     },
     {
       "id": "3",
+      "src": "./img/Monopol-08.jpg",
+      "title": "Monopol 08",
+      "description": "Monopol is a fully responsive real estate website, optimized for all devices. Built with HTML, CSS, and Angular, it offers a seamless and user-friendly experience for property browsing and management. Enjoy consistent performance and an attractive interface on desktops, tablets, and smartphones.",
+      "link": "https://github.com/eminn-a/Monopol08",
+      "siteLink": "https://monopo-angular.web.app/home"
+    },
+    {
+      "id": "4",
       "src": "./img/TechStorm-img.png",
       "title": "Tech Storm",
       "description": "Tech Storm is a sleek, responsive website designed for buying laptops. Developed using HTML, CSS, and React, it ensures a smooth and engaging shopping experience on any device. Whether you're on a desktop, tablet, or smartphone, Tech Storm provides consistent performance and an intuitive interface for all your tech needs.",
